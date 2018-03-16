@@ -14,5 +14,7 @@ while (facts.length > x.length)
 }
 
 function iLoveTheBeatles (n) {
-  
+  var x = [];
+  do 
+  return x
 }
