@@ -15,6 +15,10 @@ while (facts.length > x.length)
 
 function iLoveTheBeatles (n) {
   var x = [];
-  do 
+  do {
+    x.push("I love the Beatles!")
+    n++
+  }
+  while (n < 15);
   return x
 }
