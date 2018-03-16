@@ -12,3 +12,5 @@ while (facts.length > x.length)
   x.push(facts[i++] + "!!!")
   return x
 }
+
+function iLoveTheBeatles
